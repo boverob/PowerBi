@@ -1,0 +1,20 @@
+#Analisi Vendite E-commerce con Power BI
+
+# Descrizione
+Dashboard interattiva creata con Power BI per analizzare i dati di vendita di un e-commerce.
+Include analisi per:
+- Totale vendite
+- Vendite per prodotto
+- Andamento temporale delle vendite
+- Ordini
+
+# Dati
+I dati utilizzati sono di tipo **fittizio** e simulano le transazioni di un e-commerce.
+
+## Visualizzazioni
+- Grafico a barre per la vendita per prodotto
+- Line chart per l'andamento temporale delle vendite
+- KPI per il totale vendite complessive
+- E altro...
+
+
